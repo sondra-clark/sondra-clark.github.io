@@ -1,2 +1,1 @@
-# sondraclark816.github.io
-# sondraclark816.github.io
+# sondra-clark.github.io
