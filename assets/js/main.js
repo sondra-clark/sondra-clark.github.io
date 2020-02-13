@@ -51,7 +51,7 @@
 
     $(function () {
         element.typed({
-            strings: ["Tester", "Pest Control", "Quality Assurance Engineer"],
+            strings: ["Tester", "Pest Control", "Quality Analyst"],
             typeSpeed: 90,
             loop: true,
             autoplay: true,
